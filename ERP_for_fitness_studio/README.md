@@ -2,7 +2,7 @@
 
 [This bad boy](https://docs.google.com/spreadsheets/d/1WQeCAfbRjIPxgSVgwQHFGvEazNcwzVSTiosd9x9fu4Q/edit?usp=sharing) is a **Swiss Army spreadsheet** 🧰 built in Google Sheets, designed to help businesses clean their mess across **Marketing**, **Finance**, and **Payroll** (yes, even Jeff in accounting is impressed).
 
-![dashboard](ERP_for_fitness_studio/assets/main_dashboard.gif)
+![dashboard](/ERP_for_fitness_studio/assets/main_dashboard.gif)
 
 ## 📚 Table of Contents
 
@@ -26,7 +26,7 @@ The toolkit is divided into three powerful parts:
 
 ### 1. 🎯 Marketing Funnels
 
-[Here is the description](/marketing_funnel/README.MD)
+[Here is the description](/ERP_for_fitness_studio/marketing_funnel/README.MD)
 
 Because throwing money at ads and hoping for the best is *so 2020*. This section helps you:
 
@@ -106,7 +106,7 @@ It was time to retire that legendary expense notebook 📒 (RIP, old friend) and
 
 [👉 Check it out here](https://docs.google.com/spreadsheets/d/1c7hDcup_u0AhyK11zYkaLzEZFhTqEgNo5fVgM8VUo5M/edit?usp=sharing)
 
-![Transaction Log](/assets/Transaction%20Log.png)
+![Transaction Log](/ERP_for_fitness_studio/assets/Transaction%20Log.png)
 
 Now, what clients *used to scribble down* in the notebook, they just enter into this sheet.  
 This became the **first brick** in building our financial basement 🧱💰 — and trust me, this basement has *good bones*.
@@ -127,7 +127,7 @@ Enter this trusty import spell:
 
 Now that the data was flowing into our system like good karma, it was time to turn that raw info into something *actually useful* — **Cashflow**.
 
-![cashflow_overview](/assets/cashflow_overview.gif)
+![cashflow_overview](/ERP_for_fitness_studio/assets/cashflow_overview.gif)
 
 We pulled the data from the Transaction Log using this formula:
 
@@ -156,9 +156,9 @@ We created a new sheet called `Exports` and dumped all the data from the client�
 >Want to take a peek inside the vault?  
 >👉 [Here’s the table](https://docs.google.com/spreadsheets/d/1RNFbm5Liwbc_MEqer1T12WhgvPUN8cYNNmecbcPuHgg/edit?gid=288172794#gid=288172794)
 
-> If you want to see the data samples - [click here](/data_samples/)
+> If you want to see the data samples - [click here](/ERP_for_fitness_studio/data_samples/)
 
-![integration_exports](/assets//integration_exports.gif)
+![integration_exports](/ERP_for_fitness_studio/assets//integration_exports.gif)
 
 ---
 
@@ -173,7 +173,7 @@ Here’s the *Frankenstein monster* formula we used to do that:
 ```
 > 💡 $E9 = Membership Name
 
-![P&L_overview](/assets/P&L_overview.gif)
+![P&L_overview](/ERP_for_fitness_studio/assets/P&L_overview.gif)
 
 So now we’ve got income from memberships — awesome! BUT WAIT, there’s more…
 
