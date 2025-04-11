@@ -2,7 +2,7 @@
 
 [This bad boy](https://docs.google.com/spreadsheets/d/1WQeCAfbRjIPxgSVgwQHFGvEazNcwzVSTiosd9x9fu4Q/edit?usp=sharing) is a **Swiss Army spreadsheet** 🧰 built in Google Sheets, designed to help businesses clean their mess across **Marketing**, **Finance**, and **Payroll** (yes, even Jeff in accounting is impressed).
 
-![dashboard](/assets/main_dashboard.gif)
+![dashboard](ERP_for_fitness_studio/assets/main_dashboard.gif)
 
 ## 📚 Table of Contents
 
